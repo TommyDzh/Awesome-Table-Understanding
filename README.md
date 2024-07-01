@@ -25,6 +25,8 @@ If you notice any missing papers from the list, please feel free to [email me](m
 
 
 ## Paper List
+* [ICDE'24] KGLink: A column type annotation method that combines knowledge graph and pre-trained language model. [[paper](https://arxiv.org/pdf/2406.00318)] [[code](https://github.com/Wyb0627/KBLink)]
+
 * [SIGMOD'24] Watchog: A Light-weight Contrastive Learning based Framework for Column Annotation. [[paper](https://dl.acm.org/doi/pdf/10.1145/3626766)] [[code](https://github.com/megagonlabs/watchog)]
 
 * [NIPS'23] HYTREL: Hypergraph-enhanced Tabular Data Representation Learning. [[paper](https://arxiv.org/pdf/2307.08623)] [[code](https://github.com/brickee/HyTrel)]
@@ -32,7 +34,12 @@ If you notice any missing papers from the list, please feel free to [email me](m
 * [VLDB'23] RECA: Related Tables Enhanced Column Semantic Type
 Annotation Framework. [[paper](https://dl.acm.org/doi/pdf/10.1145/3626766)] [[code](https://github.com/ysunbp/RECA-paper)]
 
-* [SIGMOD'22] DODUO: Annotating Columns with Pre-trained Lan-guage Models. [[paper](https://arxiv.org/pdf/2104.01785)] [[code](https://github.com/megagonlabs/doduo)] :star: **[Must Read]**
+* [SIGMOD'23] Steered Training Data Generation for Learned Semantic Type
+Detection. [[paper](https://dl.acm.org/doi/pdf/10.1145/3589786)] 
+
+* [ICDE'23] Towards Explainable Table Interpretation Using Multi-view Explanations. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10184693)] [[code](https://github.com/ZJU-DAILY/ExplainTI)]
+
+* [SIGMOD'22] DODUO: Annotating Columns with Pre-trained Language Models. [[paper](https://arxiv.org/pdf/2104.01785)] [[code](https://github.com/megagonlabs/doduo)] :star: **[Must Read]**
 
 ## Datasets
 

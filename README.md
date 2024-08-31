@@ -21,29 +21,56 @@ If you notice any missing papers from the list, please feel free to [email me](m
 
 
 ## Surveys
-* [ACL'23] Transformers for Tabular Data Representation: A Survey of Models and Applications. [[paper](https://aclanthology.org/2023.tacl-1.14.pdf)]
+* [Sigmod'23] Table Discovery in Data Lakes: State-of-the-art and Future Direction
+
+* [ACL'23] Transformers for Tabular Data Representation: A Survey of Models and Applications.
+
 
 
 ## Paper List
-* [ICDE'24] KGLink: A column type annotation method that combines knowledge graph and pre-trained language model. [[paper](https://arxiv.org/pdf/2406.00318)] [[code](https://github.com/Wyb0627/KBLink)]
+* [VLDB'24] ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models. [[code](https://github.com/penfever/ArcheType)]
 
-* [SIGMOD'24] Watchog: A Light-weight Contrastive Learning based Framework for Column Annotation. [[paper](https://dl.acm.org/doi/pdf/10.1145/3626766)] [[code](https://github.com/megagonlabs/watchog)]
+* [VLDB'24] Observatory: Characterizing Embeddings of Relational Tables. [[code](https://github.com/superctj/observatory)] **[Must Read]**
 
-* [NIPS'23] HYTREL: Hypergraph-enhanced Tabular Data Representation Learning. [[paper](https://arxiv.org/pdf/2307.08623)] [[code](https://github.com/brickee/HyTrel)]
+* [VLDB'24] Chorus: Foundation Models for Unified Data Discovery and Exploration.
+
+* [NAACL'24] TableLlama: Towards Open Large Generalist Models for Tables.
+
+* [ICDE'24] KGLink: A column type annotation method that combines knowledge graph and pre-trained language model.  [[code](https://github.com/Wyb0627/KBLink)]
+
+* [SIGMOD'24] Watchog: A Light-weight Contrastive Learning based Framework for Column Annotation. [[code](https://github.com/megagonlabs/watchog)]
+
+* [Arxiv'23] AdaTyper: Adaptive Semantic Column Type Detection.
+
+* [NIPS'23] HYTREL: Hypergraph-enhanced Tabular Data Representation Learning. [[code](https://github.com/brickee/HyTrel)]
 
 * [VLDB'23] RECA: Related Tables Enhanced Column Semantic Type
-Annotation Framework. [[paper](https://dl.acm.org/doi/pdf/10.1145/3626766)] [[code](https://github.com/ysunbp/RECA-paper)]
+Annotation Framework. [[code](https://github.com/ysunbp/RECA-paper)]
 
 * [SIGMOD'23] Steered Training Data Generation for Learned Semantic Type
-Detection. [[paper](https://dl.acm.org/doi/pdf/10.1145/3589786)] 
+Detection. 
 
-* [ICDE'23] Towards Explainable Table Interpretation Using Multi-view Explanations. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10184693)] [[code](https://github.com/ZJU-DAILY/ExplainTI)]
+* [ICDE'23] Towards Explainable Table Interpretation Using Multi-view Explanations. [[code](https://github.com/ZJU-DAILY/ExplainTI)]
 
-* [SIGMOD'22] DODUO: Annotating Columns with Pre-trained Language Models. [[paper](https://arxiv.org/pdf/2104.01785)] [[code](https://github.com/megagonlabs/doduo)] :star: **[Must Read]**
+* [SIGMOD'22] DODUO: Annotating Columns with Pre-trained Language Models. [[code](https://github.com/megagonlabs/doduo)] :star: **[Must Read]**
+
+* [NAACL'21] TABBIE: Pretrained Representations of Tabular Data. [[code](https://github.com/SFIG611/tabbie)]
+
+* [WWW'21] TCN: Table Convolutional Network for Web Table Interpretation.
+
+* [VLDB'20] Sato: contextual semantic type detection in tables. [[code](https://github.com/megagonlabs/sato)] **[Must Read]** 
+
+* [VLDB'20] TURL: Table Understanding through Representation Learning. [[code](https://github.com/sunlab-osu/TURL)] **[Must Read]** 
+
+* [KDD'19] Sherlock: A deep learning approach to semantic data type detection. 
 
 ## Datasets
+* WikiTables-TURL: Table Understanding through Representation Learning. [[website](https://github.com/sunlab-osu/TURL)]
 
-* [SIGMOD'23] GitTables: A Large-Scale Corpus of Relational Tables. [[paper](https://arxiv.org/pdf/2106.07258)] [[website](https://gittables.github.io/)]
+* GitTables: A Large-Scale Corpus of Relational Tables. [[paper](https://arxiv.org/pdf/2106.07258)] [[website](https://gittables.github.io/)]
+
+* SOTAB: Web Data Commons - Schema.org Table Annotation Benchmark. [[website](https://webdatacommons.org/structureddata/sotab/)]
+
 
 ## Acknowledgements
 + [Awesome-LLM-Tabular](https://github.com/johnnyhwu/Awesome-LLM-Tabular)

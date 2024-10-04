@@ -21,7 +21,7 @@ If you notice any missing papers from the list, please feel free to [email me](m
 
 
 ## Surveys
-* [Sigmod'23] Table Discovery in Data Lakes: State-of-the-art and Future Direction
+* [SIGMOD'23] Table Discovery in Data Lakes: State-of-the-art and Future Direction
 
 * [ACL'23] Transformers for Tabular Data Representation: A Survey of Models and Applications.
 
